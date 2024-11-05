@@ -10,9 +10,12 @@ function App() {
     <Box
       backgroundColor={"#fbfdff"}
     >
+      <h1>Zerodha Advance Application</h1>
       <Main/>
       <Footer/>
+
     </Box>
+    
   )
 }
 
